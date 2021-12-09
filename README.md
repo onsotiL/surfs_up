@@ -15,3 +15,6 @@ Results:
 
 •	The maximum temperature 85 F and 83 F for the months of June and December respectively
 
+
+![image](https://user-images.githubusercontent.com/90416094/145323203-1ce7e3ba-14f6-4550-86b9-028c73c2c135.png)
+
