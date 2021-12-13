@@ -5,7 +5,7 @@ Jupyter Notebook ,Python SQL Lite. Flask, SQLAlchemy
 
 #### Overview of the analysis:
 
-The purpose of this project is performing a climate analysis to inform an upcoming investor before making the decision to open a surf shop in Oahu. The analysis first looked at the summary weather statistics for past years. An additional analysis was then performed to look at temperature data for the specifically for the month of June and December.
+The purpose of this project is performing a climate analysis to inform an upcoming investor before making the decision to open a surf shop in Oahu. The analysis first looked at the summary weather statistics for past years. An additional analysis was then performed to look at temperature data for specifically for the month of June and December.
 
 Results: 
 
